@@ -1087,11 +1087,19 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-sxQnrrAKWl {
-  padding-top: 3rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-sxQnrrAKWl .mbr-text {
+  color: #232323;
+}
+.cid-sHsByLoRKl {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sHsByLoRKl .mbr-text {
   color: #232323;
 }
 .cid-rRSodHeOnN {
